@@ -23,7 +23,7 @@
 
 ### 👨‍🏫 Docente
 
-# **	Cristian Narváez Guillén**
+# **Cristian Narváez Guillén**
 
 ---
 
