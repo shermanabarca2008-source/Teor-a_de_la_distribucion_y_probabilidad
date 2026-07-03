@@ -60,7 +60,21 @@
 
 </div>
 
+---
+
+# 📖 Introducción
+
+Durante el presente período académico se desarrollaron **dos unidades de aprendizaje**, en las cuales se abordaron los principales contenidos de la asignatura **Teoría de la Distribución y Probabilidad**.
+
+En este portafolio digital se presentan las actividades, ejercicios y evidencias más relevantes realizadas a lo largo de ambas unidades, reflejando el proceso de aprendizaje y el desarrollo de las competencias adquiridas durante el curso.
+
+Asimismo, se incluye un resumen de los conocimientos obtenidos en cada unidad, acompañado de la **evaluación sumativa**, con el propósito de evidenciar el nivel de comprensión alcanzado y los resultados obtenidos durante el proceso formativo.
+
+
 [Unidad 1](https://github.com/shermanabarca2008-source/Teor-a_de_la_distribucion_y_probabilidad/tree/main/Teor%C3%ADaDeLaDistribuci%C3%B3nYProbabilidad/Unidad1)
 
 
 [Unidad 2](https://github.com/shermanabarca2008-source/Teor-a_de_la_distribucion_y_probabilidad/tree/main/Teor%C3%ADaDeLaDistribuci%C3%B3nYProbabilidad/Unidad2)
+
+
+[Evaluación Sumativa Unidad 2](https://github.com/shermanabarca2008-source/Teor-a_de_la_distribucion_y_probabilidad/blob/main/Teor%C3%ADaDeLaDistribuci%C3%B3nYProbabilidad/Unidad2/ExamenUnidad2.ipynb)
