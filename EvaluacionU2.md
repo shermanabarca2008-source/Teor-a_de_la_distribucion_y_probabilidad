@@ -49,7 +49,7 @@
 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Escudo_de_la_Universidad_Nacional_de_Loja.png" width="180">
+<img src="[https://commons.wikimedia.org/wiki/File:Logo_unl.png]" width="180">
 
 ---
 
